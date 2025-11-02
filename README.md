@@ -85,7 +85,6 @@ El objetivo fue ayudar al **Sr. Juan** a determinar **cuál es la tienda menos e
 
 ## 📊 Resultados destacados
 
-Ejemplo:
 - <img width="756" height="549" alt="grafico_ingresos_ventas" src="https://github.com/user-attachments/assets/f5f74ce8-7502-48f1-a353-b176d355e9e2" />
 - <img width="1004" height="1089" alt="heatmap_tienda1" src="https://github.com/user-attachments/assets/21b14d54-b135-433f-9de7-caceeb1f90ca" />
 - <img width="1193" height="808" alt="Histograma_costo_envio" src="https://github.com/user-attachments/assets/b4c79909-99aa-4a48-bd88-4bb9254cdf59" />
