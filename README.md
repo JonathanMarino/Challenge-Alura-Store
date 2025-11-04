@@ -92,7 +92,7 @@ El objetivo fue ayudar al **Sr. Juan** a determinar **cuál es la tienda menos e
 ---
 
 ## 📈 Conclusiones
-- La tienda **Tienda 4** presentó el menor desempeño global tras evaluar los ingresos, calificaciones, diversidad de ventas y costos logísticos.  
+- **Tienda 4** presentó el menor desempeño global tras evaluar los ingresos, calificaciones, diversidad de ventas y costos logísticos.  
 - Se recomienda priorizar la venta de esta sucursal para optimizar la rentabilidad general de la empresa.  
 - Las demás tiendas demostraron **mayor estabilidad comercial y satisfacción del cliente**.
 
